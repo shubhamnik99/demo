@@ -7,4 +7,11 @@ git log --oneline
 git remote -v
 git remote add origin <url>
 git remote remove origin
+git clone <repo:link>
 git push origin <branch:name>
+git pull origin <branch:name>
+git branch
+git checkout <branch:name>
+git branch <name>
+git merge <name>
+git branch -d <name>
